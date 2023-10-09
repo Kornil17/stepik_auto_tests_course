@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e19c79-759a-486b-ae38-b1be9cc94627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pytest_with_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/global_enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium3.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/selenium3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stepik_auto_tests_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pydantic_schemas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pydantic_schemas/posts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schemas/posts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +41,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/d-kornilov/stepik_auto_tests_course",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/d-kornilov/stepik_auto_tests_course&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/selenium" />

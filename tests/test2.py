@@ -13,3 +13,5 @@ def test_getting_posts():
     assert len(recived_posts) == 3, GlobalErrorMessages.WRONG_ELEMENT_COUNT
     for post in recived_posts:
         validate(post, POST_SCHEMAS)
+
+

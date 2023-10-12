@@ -15,3 +15,5 @@ def test_getting_posts():
         validate(post, POST_SCHEMAS)
 
 
+
+

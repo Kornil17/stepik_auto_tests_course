@@ -28,3 +28,4 @@ class Computer(BaseModel):
     host_v4: IPv4Address
     host_v6: IPv6Address
     detailed_info: DetailedInfo
+#  new

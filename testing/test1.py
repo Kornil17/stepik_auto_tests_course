@@ -38,13 +38,13 @@ def test_values(result, values, comment, test_json):
 
 
 # commands
-# pytest -s -v -k production  tests/test1.py
-# pytest -s -v -k development  tests/test1.py
-# pytest -s -v -k 'not production'  tests/test1.py
-# pytest -s -v tests/test1.pytest
-# pytest -s -v --durations=3 tests/test1.py
-# pytest -s -v --durations=3 -vv tests/test1.py
+# pytest -s -v -k production  testing/test1.py
+# pytest -s -v -k development  testing/test1.py
+# pytest -s -v -k 'not production'  testing/test1.py
+# pytest -s -v testing/test1.pytest
+# pytest -s -v --durations=3 testing/test1.py
+# pytest -s -v --durations=3 -vv testing/test1.py
 #  sudo  apt install allure
 # pip3 install allure-pytest
-# pytest -s -v tests/test1.py --alluredir=tests/alluretest
+# pytest -s -v testing/test1.py --alluredir=testing/alluretest
 #

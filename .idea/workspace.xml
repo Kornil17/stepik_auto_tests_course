@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e19c79-759a-486b-ae38-b1be9cc94627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testing/computer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stepik_auto_tests_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stepik_auto_tests_course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pydantic_schemas/computers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pydantic_schemas/computers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/examples/computer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/json_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/json_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/testing/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test2.py" afterDir="false" />
-    </list>
+    <list default="true" id="60e19c79-759a-486b-ae38-b1be9cc94627" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -2,3 +2,4 @@
 selenium_venv
 .pytest_cache
 alluretest/
+pytest_venv

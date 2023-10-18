@@ -1,5 +1,12 @@
 import pytest
 
+
+@pytest.mark.development
+def test_function(test_func):
+    print(test_func)
+
+
+
 @pytest.mark.development
 def test_equal(test_func):
     assert 1 == 1, 'Numbres not equal'
